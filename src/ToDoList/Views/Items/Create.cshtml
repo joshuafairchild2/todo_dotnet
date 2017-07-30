@@ -12,7 +12,10 @@
 {
     @Html.LabelFor(model => model.Description)
     @Html.TextBoxFor(model => model.Description)
-    <input type="submit" value="Add a new task"/>
+
+    @Html.LabelFor(model => model.CategoryId)
+    @Html.DropDownList("CategoryId")
+    <input type="submit" value="Add a new task" class="btn btn-primary"/>
 
 }
 <p>@Html.ActionLink("Back to list", "Index")</p>

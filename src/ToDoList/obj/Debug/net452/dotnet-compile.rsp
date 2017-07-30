@@ -1,5 +1,5 @@
---temp-output:c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\obj\Debug\net452\
---out:c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\bin\Debug\net452\ToDoList.exe
+--temp-output:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\obj\Debug\net452\
+--out:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\bin\Debug\net452\ToDoList.exe
 --define:DEBUG
 --define:TRACE
 --define:NET452
@@ -132,10 +132,12 @@
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Transactions.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Diagnostics.Tracing.dll
 --reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\System.Reflection.Primitives.dll
---resource:"c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\obj\Debug\net452\ToDoListdotnet-compile.deps.json",ToDoList.deps.json
-c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\Program.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\Startup.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\Controllers\HomeController.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\Controllers\ItemsController.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\Models\Item.cs
-c:\Users\epicodus\documents\visual studio 2015\Projects\ToDoList\src\ToDoList\Models\ToDoListContext.cs
+--resource:"C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\obj\Debug\net452\ToDoListdotnet-compile.deps.json",ToDoList.deps.json
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Program.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Startup.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Controllers\CategoriesController.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Controllers\HomeController.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Controllers\ItemsController.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Models\Category.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Models\Item.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\todo_dotnet\src\ToDoList\Models\ToDoListContext.cs

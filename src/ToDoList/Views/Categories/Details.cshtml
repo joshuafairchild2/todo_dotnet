@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "To Do List - Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model ToDoList.Models.Category
+
+
+<h2>Details</h2>
+<hr />
+<p>@Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(model => model.Name)</p>
+<p>@Html.ActionLink("Back to categories", "Index")</p>
+
